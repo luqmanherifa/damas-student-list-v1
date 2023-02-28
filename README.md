@@ -5,15 +5,18 @@ Damas is a student database contains create, read, update, and delete student in
 ![Display]()
 
 ## Software
-- ### Language
+- ### Languages
   - PHP
   - HTML/CSS
   - JavaScript
 
-- ### Libraries
+- ### Library
   - jQuery
 
-- ### Tools
+- ### Database
+  - MySQL
+
+- ### Tool
   - Visual Studio Code
 
 ## Build
