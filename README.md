@@ -1,5 +1,5 @@
-# Damas: Student List
-Damas is a student database contains create, read, update, and delete student information based on web. The project was developed for practicing PHP using PHP and MySQL.
+# Damas: Student List v1
+Damas is a student database v1 contains create, read, update, and delete student information based on web. The project was developed for practicing PHP using PHP and MySQL.
 
 ## Display
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_damas.png)
